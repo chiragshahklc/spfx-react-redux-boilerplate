@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "spfx-react-redux-boilerplate-client-side-solution",
+    "id": "225f768a-9b61-40c3-9e27-035b739ca832",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "isDomainIsolated": false
+  },
+  "paths": {
+    "zippedPackage": "solution/spfx-react-redux-boilerplate.sppkg"
+  }
+}

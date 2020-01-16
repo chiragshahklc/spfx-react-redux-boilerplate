@@ -1,6 +1,10 @@
 {
   "name": "spfx-react-redux-boilerplate",
-  "version": "0.0.1",
+  "version": "1.0.0",
+  "author": {
+    "name": "Chirag Shah",
+    "email": "chiragshahklc@gmail.com"
+  },
   "private": true,
   "main": "lib/index.js",
   "engines": {

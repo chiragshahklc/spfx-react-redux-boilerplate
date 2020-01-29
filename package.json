@@ -1,6 +1,7 @@
 {
   "name": "spfx-react-redux-boilerplate",
-  "version": "1.0.0",
+  "description": "This boilerplate is created with SPFx version 1.9.1",
+  "version": "1.0.1",
   "author": {
     "name": "Chirag Shah",
     "email": "chiragshahklc@gmail.com"
@@ -24,6 +25,7 @@
     "@types/react": "16.8.8",
     "@types/react-dom": "16.8.3",
     "@types/webpack-env": "1.13.1",
+    "axios": "^0.19.2",
     "bootstrap": "^4.4.1",
     "dayjs": "^1.8.19",
     "office-ui-fabric-react": "6.189.2",
